@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210513199113",
+    "project_id": "sobat-difable-569d7",
+    "storage_bucket": "sobat-difable-569d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210513199113:android:58caefaadf95a38c22b8d8",
+        "android_client_info": {
+          "package_name": "com.example.sobat_difable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7sB0X0jLBHizI2_EuFBBecqaxQ68yeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
