@@ -26,7 +26,7 @@ class AuthService {
       );
       return userCredential.user;
     } catch (e) {
-      print('Login error: $e');
+      print('Login error: ${e.toString()}'); // Perbaiki logging
       return null;
     }
   }
