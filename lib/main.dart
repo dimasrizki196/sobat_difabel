@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Sobat Difable',
+      title: 'Sobat Difabel',
       initialRoute: '/login',
       onGenerateRoute: (settings) {
         switch (settings.name) {
