@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/release
 
 .vscode/templates
+# Ignore the google-services.json file
+google-services.json
+
