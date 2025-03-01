@@ -1,7 +1,7 @@
 part of 'shared.dart';
 
 Color primaryColor = Color(0xFF1A746B);
-Color secondaryColor = Color(0xFFECFFF9);
+Color secondaryColor = Color(0xFFF5FFFC);
 Color whiteColor = Color(0xFFEFF5F0);
 Color blackColor = Color(0xFF082E2B);
 Color dangerColor = Color(0xFFFF0E0E);
